@@ -1,0 +1,6 @@
+department,monthly_budget_inr,actual_spend,variance,utilization_pct,status_flag
+Sales,25000,14400.0,10600.0,57.6,Within Budget
+Marketing,65000,58950.0,6050.0,90.7,Within Budget
+IT,45000,0.0,45000.0,0.0,Within Budget
+HR,25000,0.0,25000.0,0.0,Within Budget
+Finance,15000,7730.0,7270.0,51.5,Within Budget

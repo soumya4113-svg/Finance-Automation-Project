@@ -1,0 +1,21 @@
+emp_id,employee_name,department,category,expense_date,amount,currency,description,status,approver,month,week,policy_limit,policy_breach
+E001,Rahul Sharma,Sales,Travel,02-03-2024,4500,INR,Flight to Mumbai client meeting,Approved,Priya Nair,Mar-24,9,15000,FALSE
+E002,Ananya Singh,Marketing,Meals,03-03-2024,850,INR,Team lunch - campaign planning,Approved,Vikram Rao,Mar-24,9,2000,FALSE
+E003,Kiran Patel,It,Software,05-03-2024,12000,INR,Annual Figma license,Pending,Awaiting Approval,Mar-24,10,20000,FALSE
+E004,Meera Iyer,Hr,Training,06-03-2024,8500,INR,Leadership workshop registration,Approved,Suresh Kumar,Mar-24,10,15000,FALSE
+E005,Rohit Das,Sales,Travel,07-03-2024,2200,INR,Train tickets - Pune visit,Approved,Priya Nair,Mar-24,10,15000,FALSE
+E006,Sneha Joshi,Finance,Office Supplies,08-03-2024,650,INR,Stationery and printer cartridges,Approved,Anand Mehta,Mar-24,10,5000,FALSE
+E007,Arjun Nair,Marketing,Advertising,10-03-2024,35000,INR,Google Ads campaign - Q1,Approved,Vikram Rao,Mar-24,10,50000,FALSE
+E008,Pooja Verma,It,Hardware,11-03-2024,15500,INR,External SSD for backup,Pending,Awaiting Approval,Mar-24,11,20000,FALSE
+E009,Deepak Rao,Sales,Entertainment,12-03-2024,3200,INR,Client dinner - Bengaluru,Approved,Priya Nair,Mar-24,11,5000,FALSE
+E010,Nisha Gupta,Hr,Office Supplies,13-03-2024,420,INR,Whiteboard markers and notebooks,Approved,Suresh Kumar,Mar-24,11,5000,FALSE
+E011,Anil Kumar,Finance,Travel,14-03-2024,6800,INR,Flight to Delhi - audit meeting,Approved,Anand Mehta,Mar-24,11,15000,FALSE
+E012,Lakshmi Rao,Marketing,Meals,15-03-2024,1100,INR,Working lunch - photoshoot day,Approved,Vikram Rao,Mar-24,11,2000,FALSE
+E013,Suraj Mishra,It,Software,16-03-2024,5500,INR,GitHub Teams subscription - 6 months,Approved,Anand Mehta,Mar-24,11,20000,FALSE
+E014,Pritha Sen,Sales,Travel,18-03-2024,3800,INR,Cab and hotel - Hyderabad client,Pending,Awaiting Approval,Mar-24,12,15000,FALSE
+E015,Manish Tiwari,Hr,Training,20-03-2024,12000,INR,Excel Advanced certification,Approved,Suresh Kumar,Mar-24,12,15000,FALSE
+E016,Riya Desai,Finance,Office Supplies,21-03-2024,280,INR,Filing folders,Approved,Anand Mehta,Mar-24,12,5000,FALSE
+E017,Varun Kapoor,Marketing,Advertising,22-03-2024,22000,INR,LinkedIn Ads - Hiring campaign,Approved,Vikram Rao,Mar-24,12,50000,FALSE
+E018,Tanvi Shah,It,Hardware,23-03-2024,8900,INR,Mechanical keyboard for developer,Pending,Awaiting Approval,Mar-24,12,20000,FALSE
+E019,Amit Pandey,Sales,Entertainment,25-03-2024,4500,INR,Client hospitality - trade show,Approved,Priya Nair,Mar-24,13,5000,FALSE
+E020,Divya Menon,Hr,Meals,27-03-2024,750,INR,Onboarding lunch - new joinees,Approved,Suresh Kumar,Mar-24,13,2000,FALSE
