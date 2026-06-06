@@ -1,0 +1,15 @@
+ledger_id,date,description,amount,type,account_code
+L001,01-03-2024,Tata Supplies - Purchase,-15000,debit,AP001
+L002,02-03-2024,Infosys - Sales Receipt,50000,credit,AR001
+L003,03-03-2024,Rent - March 2024,-25000,debit,EX001
+L004,04-03-2024,Wipro - Sales Receipt,30000,credit,AR002
+L005,05-03-2024,Electricity & Water,-3200,debit,EX002
+L006,06-03-2024,HCL - Sales Receipt,21500,credit,AR003
+L007,07-03-2024,Reliance - Purchase,-8500,debit,AP002
+L008,08-03-2024,Payroll - March 2024,-120000,debit,EX003
+L009,09-03-2024,Cognizant - Sales Receipt,45000,credit,AR004
+L011,11-03-2024,TCS - Sales Receipt,60000,credit,AR005
+L012,12-03-2024,Adani - Purchase,-18000,debit,AP003
+L013,13-03-2024,Mahindra - Sales Receipt,38000,credit,AR006
+L014,14-03-2024,Insurance - Annual Premium,-7500,debit,EX004
+L015,15-03-2024,Bajaj - Sales Receipt,28000,credit,AR007

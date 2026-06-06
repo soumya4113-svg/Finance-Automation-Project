@@ -1,0 +1,16 @@
+txn_id,date,description,amount,type
+B001,01-03-2024,Vendor Payment - Tata Supplies,-15000,debit
+B002,02-03-2024,Customer Receipt - Infosys,50000,credit
+B003,03-03-2024,Office Rent Payment,-25000,debit
+B004,04-03-2024,Customer Receipt - Wipro,30000,credit
+B005,05-03-2024,Utility Bill Payment,-3200,debit
+B006,06-03-2024,Customer Receipt - HCL,22000,credit
+B007,07-03-2024,Vendor Payment - Reliance,-8500,debit
+B008,08-03-2024,Salary Disbursement,-120000,debit
+B009,09-03-2024,Customer Receipt - Cognizant,45000,credit
+B010,10-03-2024,Bank Charges,-500,debit
+B011,11-03-2024,Customer Receipt - TCS,60000,credit
+B012,12-03-2024,Vendor Payment - Adani,-18000,debit
+B013,13-03-2024,Customer Receipt - Mahindra,35000,credit
+B014,14-03-2024,Insurance Premium,-7500,debit
+B015,15-03-2024,Customer Receipt - Bajaj,28000,credit
