@@ -168,5 +168,5 @@ finance-automation-projects/
 
 These projects were built to demonstrate practical application of AI and automation within finance and operational workflows — aligned with GenAI & automation roles at financial institutions.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-rout) | **Location:** Bhubaneswar, Odisha  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/soumya4113) | **Location:** Bhubaneswar, Odisha  
 **Background:** BBA Finance & Accounting, Utkal University | Power BI · Excel · SQL · Python
